@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  color: white;
+  background-color: black;
+}
+nav{
+  display: flex;
+  align-items: center;
+  background-color: #21222A;
+  height: 90px;
+  padding: 30px 25px;
+  color: white;
+}
+nav img{
+  width: 30px;
+  margin: 10px;
+}
+nav h3{
+  margin-right: auto;
+}
+
+main{
+  margin: 2rem;
+}
+main h1{
+  font-size: 2rem;
+}
+main ul{
+  margin: 2rem;
+}
+main ul li{
+  line-height: 2;
+  font-size: 1.2rem;
+}
